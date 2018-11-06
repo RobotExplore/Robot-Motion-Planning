@@ -1,6 +1,6 @@
 # Robot-Motion-Planning
 ### Dijkstra and A* in Grid World
-(Astar_Dijiktra_GridWorld)  
+In `Astar_Dijiktra_GridWorld)`  
 
 **Dijkstra**
 
@@ -12,7 +12,7 @@
 
 ### Robot Arm Example
 
-Robot_Arm
+In `Robot_Arm/`
 
 **Dijkstra Planning**
 
