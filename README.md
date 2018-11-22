@@ -1,5 +1,6 @@
 # Robot-Motion-Planning
-### Dijkstra and A* in Grid World
+######Based on the online course from Upenn "Computational Motion Planning"
+
 In `Astar_Dijiktra_GridWorld)`  
 
 **Dijkstra**
@@ -21,3 +22,15 @@ In `Robot_Arm/`
 **A* Planning**
 
 ![Astar Grid World Gif](Robot_Arm/AStarRobot.gif)
+
+In `Probability_Road_Map`
+
+**Probability Road Map planning for 6-link robot arm**
+
+![PRM Gif](Probability_Road_Map/PRMRobot.gif)
+
+In `Artificial_Potantial_Field`
+
+**Aritificial Potantial Field motion planning for a ball**
+
+![APF Gif](Artificial_Potantial_Field/ArtificialField.gif)
