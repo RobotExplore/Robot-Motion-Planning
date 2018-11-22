@@ -1,5 +1,5 @@
 # Robot-Motion-Planning
-######Based on the online course from Upenn "Computational Motion Planning"
+**Based on the online course from Upenn "Computational Motion Planning"**
 
 In `Astar_Dijiktra_GridWorld)`  
 
