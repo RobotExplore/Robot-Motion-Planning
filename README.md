@@ -1,36 +1,7 @@
-# Robot-Motion-Planning
-**Based on the online course from Upenn "Computational Motion Planning"**
-
-In `Astar_Dijiktra_GridWorld)`  
-
-**Dijkstra**
-
-![Dijkstra Grid World Gif](Astar_Dijiktra_GridWorld/Dijkstra.gif)
-
-**A***
-
-![Astar Grid World Gif](Astar_Dijiktra_GridWorld/AStar.gif)
-
-### Robot Arm Example
-
-In `Robot_Arm/`
-
-**Dijkstra Planning**
-
-![Dijkstra Grid World Gif](Robot_Arm/DijkstraRobot.gif)  
-
-**A* Planning**
-
-![Astar Grid World Gif](Robot_Arm/AStarRobot.gif)
-
-In `Probability_Road_Map`
-
-**Probability Road Map planning for 6-link robot arm**
-
-![PRM Gif](Probability_Road_Map/PRMRobot.gif)
-
-In `Artificial_Potantial_Field`
-
-**Aritificial Potantial Field motion planning for a ball**
-
-![APF Gif](Artificial_Potantial_Field/ArtificialField.gif)
+# Robot Motion Planning Algorithms
+**This repository is a collection of common robot motion planning algorithms with toy demostrations.**
+***
+###List:
+* `MATLAB_Examlpes` -- Including **A** * ,**Dijkstra**, **PRM** and **Aritificial Potantial Field** with MATLAB examples respectively.
+* `Hybrid_AStar` - A toy examples of Hybrid A* algorithm written in C++.
+ 
