@@ -13,7 +13,21 @@ const int X = 1;
 
 /**
  * You can modify the map below
+ *
  */
+
+// Coordination:
+// --------------> x
+// |
+// |
+// |
+// |
+// |
+// |
+// v y
+//
+
+
 
 std::vector<std::vector<int>> GRID = {
         {_,X,X,_,_,_,_,_,_,_,X,X,_,_,_,_,},
