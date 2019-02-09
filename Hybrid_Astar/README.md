@@ -1,4 +1,4 @@
-###Hybrid A* Algorithm
+### Hybrid A* Algorithm
 Hybrid A* Algorithm was initially implemented by Stanford team in DARPA Urben Challange to plan path in the parking lot for their self-driving car, Junior. The algorithm is descirbed in this paper: [Junior: The Stanford Entry in the Urban Challenge](http://robots.stanford.edu/papers/junior08.pdf)  
 
 In this setup, I use a 3D configuration space, which includes x,y and theta. In a real world setup, there should be an additional dimension, describing whether the car is moving forward or backward.
@@ -60,7 +60,7 @@ def HybridAStar(start, goal, map):
 	return parentList;
 	
 ```
-###Possible improvement:
+### Possible improvement:
 We can use dynamic programming to calculate the heuristic. This would make the algorithm explore less gird cells therefore leads to better performance.
 #
 Some code is based on the lecture material of Udacity Self-Driving Car Nanodegree. 
